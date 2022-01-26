@@ -1,5 +1,7 @@
 # AIOps Log collector
 
+link to site: https://aiopslogcollector.azurewebsites.net/
+
 This repo has been updated to work with `Python v3.8` and up.
 
 ### How To Run
